@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "weapp",
+  "appid": "wx23ef9016473d4e9e",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
